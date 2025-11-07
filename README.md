@@ -1,11 +1,36 @@
 # Checkers
-Checkers game in python using pygame.
-The game uses the MiniMax algorithm for the opponent. 
 
-## Commands for project
-### Activate venv
-    env\Scripts\activate.bat
+Checkers game uses a minimax algorithm to calculate optimal moves.
+
+---
+
+## Requirements
+
+- Python 3
+
+---
+
+## Installation
+
+1. Clone the Repository
+
+2. Create virtual environment and activate.
+```bash
+python3 -m venv env
+source env/bin/activate
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Usage
+
 ### Run game
-    py main.py
-### Deactivate venv
-    env\Scripts\deactivate
+
+```bash
+python3 main.py
+```
