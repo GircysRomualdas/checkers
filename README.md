@@ -1,6 +1,7 @@
 # Checkers
 
-Checkers game uses a minimax algorithm to calculate optimal moves.
+A checkers game built with Python and Pygame.  
+This game uses a minimax algorithm to calculate optimal moves.
 
 ---
 
