@@ -13,7 +13,7 @@ This game uses a minimax algorithm to calculate optimal moves.
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 2. Create virtual environment and activate.
 ```bash
